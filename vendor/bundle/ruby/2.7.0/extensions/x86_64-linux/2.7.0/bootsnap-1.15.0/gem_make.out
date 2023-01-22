@@ -1,0 +1,15 @@
+current directory: /home/kevo/bus/knight-travel-agencies/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.15.0/ext/bootsnap
+/usr/share/rvm/rubies/ruby-2.7.4/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.4/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /home/kevo/bus/knight-travel-agencies/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.15.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230122-10820-1fekskn sitelibdir\=./.gem.20230122-10820-1fekskn clean
+
+current directory: /home/kevo/bus/knight-travel-agencies/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.15.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230122-10820-1fekskn sitelibdir\=./.gem.20230122-10820-1fekskn
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/kevo/bus/knight-travel-agencies/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.15.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230122-10820-1fekskn sitelibdir\=./.gem.20230122-10820-1fekskn install
+/usr/bin/install -m 0755 bootsnap.so ./.gem.20230122-10820-1fekskn/bootsnap
